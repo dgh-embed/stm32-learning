@@ -24,6 +24,6 @@ int main(void)
 	
 	while (1)
 	{
-		
+		//尝试git的功能，故意写的注释
 	}
 }
